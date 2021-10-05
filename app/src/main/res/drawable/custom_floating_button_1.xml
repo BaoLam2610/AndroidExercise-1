@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="oval">
+            <gradient
+                android:type="linear"
+                android:startColor="@color/ocean_blue"
+                android:endColor="@color/darkish_blue"
+                android:angle="90" />
+            <size
+                android:height="64dp"
+                android:width="64dp"/>
+        </shape>
+
+    </item>
+    <item android:gravity="center"
+        >
+        <bitmap android:src="@drawable/assignment_returned_black_18_dp_copy"
+             />
+    </item>
+
+</layer-list>

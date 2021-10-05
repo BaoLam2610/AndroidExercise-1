@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/ImageUI-Paypal/backup/AndroidExcercise-1-master/app/src/main/res/layout-land/activity_main.xml" value="0.28125" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/ImageUI-Paypal/backup/AndroidExcercise-1-master/app/src/main/res/layout-land/activity_main2.xml" value="0.22522522522522523" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/ImageUI-Paypal/backup/AndroidExcercise-1-master/app/src/main/res/layout-land/activity_main3.xml" value="0.22522522522522523" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/ImageUI-Paypal/backup/AndroidExcercise-1-master/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/ImageUI-Paypal/backup/AndroidExcercise-1-master/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/ImageUI-Paypal/backup/AndroidExcercise-1-master/app/src/main/res/layout/activity_main3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_floating_button_1.xml" value="0.18020833333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_line.xml" value="0.18020833333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_1.xml" value="0.2703125" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_10.xml" value="0.2703125" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_11.xml" value="0.2703125" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_12.xml" value="0.2703125" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_13.xml" value="0.1707236842105263" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_2.xml" value="0.18020833333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_3.xml" value="0.18020833333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_4.xml" value="0.18020833333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_5.xml" value="0.18020833333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_6.xml" value="0.18020833333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_8.xml" value="0.536" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/custom_view_9.xml" value="0.2703125" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/red_dot.xml" value="0.2703125" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/drawable/shadow_1.xml" value="0.202734375" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font-v26/raleway.xml" value="0.284375" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font/lato_black.xml" value="0.18958333333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font/lato_light.xml" value="0.18958333333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font/montserrat.xml" value="0.18958333333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font/montserrat_bold.xml" value="0.18958333333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font/montserrat_medium.xml" value="0.18958333333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font/montserrat_semibold.xml" value="0.18958333333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font/raleway.xml" value="0.18958333333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font/raleway_black.xml" value="0.18958333333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/font/raleway_medium.xml" value="0.18958333333333333" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/layout-land-v18/activity_main.xml" value="0.2578125" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/layout-land/activity_main.xml" value="0.176" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/layout-land/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/layout-land/activity_main3.xml" value="0.6" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/layout/activity_main.xml" value="0.42284325637910086" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/layout/activity_main2.xml" value="0.48148148148148145" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/layout/activity_main3.xml" value="0.2" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/layout/test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Study/ThucTap/MonstarLab/Homework/UI-Paypal/app/src/main/res/menu/bottom_menu_1.xml" value="0.16944444444444445" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
